@@ -1,0 +1,80 @@
+/* EXERCICE 1 */
+
+    .androids {
+        margin-top: 120px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+/* EXERCICE 1 */
+
+/*################################*/
+
+/* EXERCICE 2 */
+
+    .androids2 {
+        margin-top: 120px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+/* EXERCICE 2 */
+
+/*################################*/
+
+
+/* NE RIEN TOUCHER ENTRE CES COMMENTAIRES */
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #CA6F1E;
+    color: #1C2833;
+}
+
+h1 {
+    text-align: center;
+    color: #FDFEFE;
+}
+
+h2 {
+    color: #FDFEFE;
+}
+
+section {
+    min-height: 100vh;
+    margin: 0px 50px;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px 30px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    height: 150px;
+}
+
+#exo3, #exo4, #exo6, #exo7, #exo8 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#exoClick {
+    cursor: pointer;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/* NE RIEN TOUCHER ENTRE CES COMMENTAIRES */
+
